@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Added links to the GitHub page for feedback and bug reports. Shorter description.
+
 ## 1.0.0
 
 - First release.

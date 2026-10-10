@@ -1,6 +1,6 @@
 # SleepThroughDay
 
-Adds a Day bed. When everyone naps in one during the day, time skips to nightfall. Refuses at night with jokes. Optional bed rules for all beds, like sleeping with enemies nearby. Server synced config.
+Adds a Day bed. When everyone naps in one during the day, time skips to nightfall. It refuses at night with jokes. Optional rules for all beds, like sleeping with enemies nearby. Server synced.
 
 A Valheim mod by Onononoki. Get it on Thunderstore: https://thunderstore.io/c/valheim/p/Onononoki/SleepThroughDay/
 
@@ -8,7 +8,7 @@ The full description, settings and changelog are in [package/README.md](package/
 
 ## Bug reports and feedback
 
-Open an issue here: https://github.com/Ononononoki/SleepThroughDay/issues. If something breaks, please add your mod list and the BepInEx log (`BepInEx/LogOutput.log`).
+Bug reports and ideas: open an issue at https://github.com/Ononononoki/SleepThroughDay/issues. If something breaks, please add your mod list and the BepInEx log (`BepInEx/LogOutput.log`).
 
 ## Building
 

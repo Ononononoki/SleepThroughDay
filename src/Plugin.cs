@@ -22,7 +22,7 @@ namespace SleepThroughDay
     {
         public const string ModGuid = "onononoki.SleepThroughDay";
         public const string ModName = "SleepThroughDay";
-        public const string ModVersion = "1.0.0";
+        public const string ModVersion = "1.0.1";
         internal const string PrefabName = "SleepThroughDay_DayBed";
         internal const string DefaultRecipe = "BjornHide:5,DeerHide:5,LeatherScraps:5,LoxPelt:5";
 
