@@ -1,0 +1,10 @@
+{
+  "name": "SleepThroughDay",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Adds a Day bed. When everyone naps in one during the day, time skips to nightfall. Refuses at night with jokes. Optional bed rules for all beds, like sleeping with enemies nearby. Server synced config.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
